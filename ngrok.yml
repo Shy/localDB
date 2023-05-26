@@ -1,0 +1,6 @@
+version: 2
+web_allow_hosts: nat.superblocks.com
+tunnels:
+  db:
+    addr: 5432
+    proto: tcp
